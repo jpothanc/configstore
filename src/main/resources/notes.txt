@@ -1,0 +1,14 @@
+drop table web_counter;
+
+CREATE TABLE web_counter (
+	site_name	     varchar(30),
+	counter	       INTEGER,
+	modified_by	   varchar(30),
+	modified_date  varchar(30),
+	PRIMARY KEY(site_name)
+);
+
+insert into web_counter values('test', 10, 'jpothanc', '');
+
+select * from web_counter
+update web_counter set counter=100 where site_name = 'test'
