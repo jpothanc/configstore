@@ -1,4 +1,4 @@
-package com.cs.ibit.models;
+package com.ibit.models;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

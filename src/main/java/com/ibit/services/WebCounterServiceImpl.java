@@ -1,6 +1,6 @@
-package com.cs.ibit.services;
+package com.ibit.services;
 
-import com.cs.ibit.repositories.WebCounterRepository;
+import com.ibit.repositories.WebCounterRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

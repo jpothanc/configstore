@@ -1,4 +1,4 @@
-package com.cs.ibit.helpers;
+package com.ibit.helpers;
 
 public class Helper {
     public static String getPasswordEncryptionKey() {

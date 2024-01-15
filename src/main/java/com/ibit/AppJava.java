@@ -1,4 +1,4 @@
-package com.cs.ibit;
+package com.ibit;
 
 import org.springframework.beans.BeansException;
 import org.springframework.boot.SpringApplication;

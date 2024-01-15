@@ -1,6 +1,6 @@
-package com.cs.ibit.controllers;
+package com.ibit.controllers;
 
-import com.cs.ibit.services.WebCounterService;
+import com.ibit.services.WebCounterService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

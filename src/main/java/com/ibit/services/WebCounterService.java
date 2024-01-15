@@ -1,4 +1,4 @@
-package com.cs.ibit.services;
+package com.ibit.services;
 
 import java.util.Optional;
 

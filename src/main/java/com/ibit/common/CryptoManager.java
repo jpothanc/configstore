@@ -1,6 +1,6 @@
-package com.cs.ibit.common;
+package com.ibit.common;
 
-import com.cs.ibit.helpers.Constants;
+import com.ibit.helpers.Constants;
 import org.jasypt.util.text.BasicTextEncryptor;
 
 public class CryptoManager {

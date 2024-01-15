@@ -1,4 +1,4 @@
-import com.cs.ibit.controllers.ConfigController;
+import com.ibit.controllers.ConfigController;
 import org.junit.Before;
 
 public class BaseTests {
